@@ -1,4 +1,4 @@
-# 小控酱的个人简历
+# 李子腾的个人简历
 
 ## 联系方式
 
@@ -13,8 +13,8 @@ WeChat: iLittleControl
 - 毕业时间2021.5
 - 技术博客: <http://www.littlecontrol.cn/>
 - GitHub: <https://github.com/LittleControl>
+- 在线简历: <https://littlecontrol.github.io/myresume/>
 - 期望职位: Web前端开发
-- 期望薪资: 税前月薪7k-8k
 
 ## 项目经验
 
@@ -55,14 +55,15 @@ WeChat: iLittleControl
 - CSS
 - Node(Express, Egg.js)
 - MongoDB(Mongoose)
-- Git
 
 ### 其他杂项
 
 - Linux
 - Webpack
 - ESLint
+- Git
 - Markdown
+- 计算机网络基础知识
 - 英语基础较好,有独立阅读技术文档的能力
 
 ## 自我评价
