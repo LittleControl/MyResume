@@ -57,17 +57,13 @@ WeChat: iLittleControl
 - MongoDB(Mongoose)
 - Git
 
-### 可快速上手的
-
-- Webpack
-- TypeScript
-- React
-
 ### 其他杂项
 
 - Linux
+- Webpack
 - ESLint
 - Markdown
+- 英语基础较好,有独立阅读技术文档的能力
 
 ## 自我评价
 
