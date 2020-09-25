@@ -3,7 +3,7 @@
 ## 联系方式
 
 手机: +86 17367452404  
-Email: littlecontrol2019@gmail.com  
+Email: i@littlecontrol.io  
 WeChat: iLittleControl  
 
 ## 个人信息
@@ -11,9 +11,9 @@ WeChat: iLittleControl
 - 李子腾/男/1999
 - 本科/西安邮电大学网络工程专业
 - 毕业时间2021.5
-- 技术博客: <http://www.littlecontrol.cn/>
+- 技术博客: <http://www.littlecontrol.io/>
 - GitHub: <https://github.com/LittleControl>
-- 在线简历: <https://littlecontrol.github.io/myresume/>
+- 在线简历: <https://littlecontrol.io/myresume/>
 - 期望职位: Web前端开发
 
 ## 项目经验
@@ -26,6 +26,7 @@ WeChat: iLittleControl
 - \[团队]: 个人开发
 - \[贡献]: 页面的整体框架设计以及布局,所有图片的切图,以及引用了一些简单的canvas实例
 - \[效果]: 引导页实现了简单的过渡动画,主页面实现了类似PPT播放的图片翻页效果
+- 项目链接: <https://github.com/LittleControl/Birthday>
 
 ### [项目二]流行音乐管理系统
 
@@ -35,6 +36,7 @@ WeChat: iLittleControl
 - \[团队]: 个人开发
 - \[贡献]: 搭建前端页面,设计数据库模型,编写后端与数据库交互逻辑,与前端交互逻辑
 - \[效果]: 实现数据库操作的可视化,以及一些简单的排序和过滤算法
+- 项目链接: <https://github.com/LittleControl/PopMusicManagement>
 
 ### [项目三]DIYShop
 
@@ -44,6 +46,7 @@ WeChat: iLittleControl
 - \[团队]: 个人开发
 - \[贡献]: 前后端的所有代码,以及数据库的整体设计
 - \[效果]: 用户的注册登录,查看商家信息,加入购物车等等一个基本的外卖App的基本功能
+- 项目链接: <https://github.com/LittleControl/DIYShop>
 
 ## 技能清单
 
