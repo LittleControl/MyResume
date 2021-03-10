@@ -3,42 +3,31 @@
 ## 联系方式
 
 手机: +86 17367452404  
-Email: i@littlecontrol.io  
+Email: ilittlecontrol@gmail.com  
 WeChat: iLittleControl  
 
 ## 个人信息
 
 - 李子腾/男/1999
 - 本科/西安邮电大学网络工程专业
-- 毕业时间2021.5
+- 毕业时间2021.7
 - 技术博客: <http://www.littlecontrol.io/>
-- GitHub: <https://github.com/LittleControl>
-- 在线简历: <https://littlecontrol.io/myresume/>
+- GitHub: <https://www.github.com/LittleControl>
+- 在线简历: <https://www.littlecontrol.io/myresume/>
 - 期望职位: Web前端开发
 
 ## 项目经验
 
-### [项目一]静态页面生日祝福
+### [项目一]网络安全单兵侦测系统
 
-- 时间: 2018.12-2019.2
-- 技术栈: **`HTML5`**+**`CSS3`**
-- \[目标]: 实现对于某个人的生日祝福,简单的静态页面
-- \[团队]: 个人开发
-- \[贡献]: 页面的整体框架设计以及布局,所有图片的切图,以及引用了一些简单的canvas实例
-- \[效果]: 引导页实现了简单的过渡动画,主页面实现了类似PPT播放的图片翻页效果
-- 项目链接: <https://github.com/LittleControl/Birthday>
+- 时间: 2020.12-2021.2
+- 技术栈: **`Umi.js`**
+- \[目标]: 实现一款集成攻击渗透、事件调查、工控安全、物联网安全等工具，构建情报库、知识库、专家库以及漏洞库为一体的硬件尖兵装备系统
+- \[团队]: 远江盛邦安全秦岭项目组5个成员
+- \[贡献]: 前端任务中心,目标侦测,暴露面检测和渗透利用页面的编写,后端数据库的简单调用,Linux简单服务脚本的编写
+- \[效果]: 所编写页面的用户的搜索,条件过滤等功能,对后端请求结果的分页展示和懒加载等功能
 
-### [项目二]流行音乐管理系统
-
-- 时间: 2019.3-2019.6
-- 技术栈: **`Bootstrap`**+**`Express`**+**`MongoDB`**
-- \[目标]: 实现后台数据库的可视化以及通过前端来进行数据库的可视化操作(CRUD)
-- \[团队]: 个人开发
-- \[贡献]: 搭建前端页面,设计数据库模型,编写后端与数据库交互逻辑,与前端交互逻辑
-- \[效果]: 实现数据库操作的可视化,以及一些简单的排序和过滤算法
-- 项目链接: <https://github.com/LittleControl/PopMusicManagement>
-
-### [项目三]DIYShop
+### [项目二]DIYShop
 
 - 时间: 2019.12-2020.3
 - 技术栈: **`Vue全家桶`**+**`Egg.js`**+**`MongoDB`**
@@ -48,20 +37,38 @@ WeChat: iLittleControl
 - \[效果]: 用户的注册登录,查看商家信息,加入购物车等等一个基本的外卖App的基本功能
 - 项目链接: <https://github.com/LittleControl/DIYShop>
 
+### [项目三]流行音乐管理系统
+
+- 时间: 2019.3-2019.6
+- 技术栈: **`Bootstrap`**+**`Express`**+**`MongoDB`**
+- \[目标]: 实现后台数据库的可视化以及通过前端来进行数据库的可视化操作(CRUD)
+- \[团队]: 个人开发
+- \[贡献]: 搭建前端页面,设计数据库模型,编写后端与数据库交互逻辑,与前端交互逻辑
+- \[效果]: 实现数据库操作的可视化,以及一些简单的排序和过滤算法
+- 项目链接: <https://github.com/LittleControl/PopMusicManagement>
+
+### [项目四]静态页面生日祝福
+
+- 时间: 2018.12-2019.2
+- 技术栈: **`HTML5`**+**`CSS3`**
+- \[目标]: 实现对于某个人的生日祝福,简单的静态页面
+- \[团队]: 个人开发
+- \[贡献]: 页面的整体框架设计以及布局,所有图片的切图,以及引用了一些简单的canvas实例
+- \[效果]: 引导页实现了简单的过渡动画,主页面实现了类似PPT播放的图片翻页效果
+- 项目链接: <https://github.com/LittleControl/Birthday>
+
 ## 技能清单
 
 ### 有实战经验
 
-- JavaScript
 - Vue全家桶
-- HTML
-- CSS
 - Node(Express, Egg.js)
 - MongoDB(Mongoose)
+- Umi.js(React, Antd)
+- Linux(Shell脚本编程)
 
 ### 其他杂项
 
-- Linux
 - Webpack
 - ESLint
 - Git
@@ -75,7 +82,7 @@ WeChat: iLittleControl
 
 ## 近期计划
 
-要学的东西太多太多了,近期的话,还是想多学习一下TS和React,同时也会了解一些关于Electron和Fluuter的东西.我太想写一个手机端的Markdown阅读工具了.目前市场上的MarkdownAPP都没有让我满意的东西.
+最近在学习ReactNative,想了解一些关于跨端的技术.
 
 ## 致谢
 
